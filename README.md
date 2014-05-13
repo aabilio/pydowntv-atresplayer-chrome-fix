@@ -7,7 +7,7 @@ Instrucciones de Instalación
 ----------------------------
 
 **Descargar la extensión.** Puedes obtener la última versión de la [extensión
-desde aquí]()
+desde aquí](https://raw.githubusercontent.com/aabilio/pydowntv-atresplayer-chrome-fix/master/pydowntv-atresplayer-chrome-fix.crx)
 (por supuesto, necesitas tener instalado [Google Chrome](http://www.google.com/chrome) primero).</p>
 
 **Instala la extensión.** Arrastra la extensión (que por defecto se llama 
