@@ -1,0 +1,18 @@
+{
+	"name": "pydowntv-atresplayer-chrome-fix",
+	"version": "0.1.0",
+	"description": "Fix temporal para poder obtener los enlaces de atresplayer a través de PyDownTV en Chrome",
+	"homepage_url": "http://pydowntv.com",
+	"icons": {
+		"16": "icon.png",
+		"48": "icon.png",
+		"128": "icon.png"
+	},
+	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
+		"<all_urls>",
+		"tabs"
+	],
+	"manifest_version": 2
+}
