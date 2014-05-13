@@ -6,7 +6,9 @@ FIX temporal para poder obtener los enlaces de atresplayer a través de pydowntv
 Instrucciones de Instalación
 ----------------------------
 
-**Mientras la extensión no esté en el market puedes instalarla de la sigiente manera:**
+**Instalar [desde el market] ((https://chrome.google.com/webstore/detail/pydowntv-atresplayer-chro/ghcoiiiebjmlpmchihbilhfibgnpdlfj/related?hl=es&authuser=0).**
+
+**Instalación Manual:**
 
 **Descargar la extensión.** Puedes obtener la última versión de la [extensión
 desde aquí](https://github.com/aabilio/pydowntv-atresplayer-chrome-fix/blob/master/pydowntv-atresplayer-chrome-fix.crx?raw=true)
