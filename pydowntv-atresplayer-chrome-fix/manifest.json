@@ -14,5 +14,6 @@
 		"<all_urls>",
 		"tabs"
 	],
+	"background": {"page":"background.html"},
 	"manifest_version": 2
 }
